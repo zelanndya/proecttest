@@ -1,12 +1,20 @@
 body{
     background-color: ​#f8f8f8;
 }
-.menu li{
+.menu > li{
     font-style: normal;
     font-size: 20px;
     list-style-type: none;
     font-weight: 900;
     color: black;
+    width: 100px;
+    height: 40px; 
+    border: 2px solid red;
+}
+.menu li {
+    display: inline;
+    
+
 }
 .menu li a {
     text-decoration: none;
@@ -68,16 +76,11 @@ textarea{
 input[type=submit],[type=reset]{
     width: 50%;
 }
-.logo img {
-    outline: 5px solid #eaeaea;
-}
+
 .logo img:hover{
-    outline:3px solid transparent;
+    outline:none;
 }
-.logo img {
-    width: 70px;
-    height: 60px;
-}
+
 
 input[type=email]:hover{
     color:blue ;
@@ -126,5 +129,12 @@ tr:hover {background-color: #eaeaea;}
 .footer{
     background-color: #e9e1e1;
     height: 100px;
+}
+.logo img {
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 100px;
+    outline: 5px solid #eaeaea;
 }
 
