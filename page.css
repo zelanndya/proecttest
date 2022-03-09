@@ -44,7 +44,7 @@ h1,h3 {
     text-align: left;
 }
 .list li {
-    list-style-image: url(/frontend/practic/img/qtpass-icon-icon\ \(1\).png);
+    list-style-image: url(img/qtpass-icon-icon\ \(1\).png);
     list-style-position: outside;
     font-size: 22px;
     font-style: oblique;
