@@ -68,13 +68,13 @@ textarea{
 input[type=submit],[type=reset]{
     width: 50%;
 }
-img {
+.logo img {
     outline: 5px solid #eaeaea;
 }
-img:hover{
+.logo img:hover{
     outline:3px solid transparent;
 }
-.menu li img {
+.logo img {
     width: 70px;
     height: 60px;
 }
@@ -116,7 +116,7 @@ tr:hover {background-color: #eaeaea;}
 }
 .header{
     background-color: #2118FF;
-    height: 140px;
+    height: 180px;
 }
 .content{
     background-color: #d6d0d0;
