@@ -78,10 +78,7 @@ img:hover{
     width: 70px;
     height: 60px;
 }
-.content{
-    height:400px ;
-    width: 100% ;
-}
+
 input[type=email]:hover{
     color:blue ;
     background-color:rgb(222, 222, 240) ;
@@ -113,3 +110,21 @@ tr:hover {background-color: #eaeaea;}
 .table th{
     height: 100px;
 }
+.container{
+    width: 800px;
+    margin:0 auto;
+}
+.header{
+    background-color: #2118FF;
+    height: 140px;
+}
+.content{
+    background-color: #d6d0d0;
+    height: 600px;
+   
+}
+.footer{
+    background-color: #e9e1e1;
+    height: 100px;
+}
+
