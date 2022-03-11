@@ -129,16 +129,16 @@ tr:hover {background-color: #eaeaea;}
     margin:0 auto;
 }
 .header{
-    background-color: #2118FF;
+    background-color: #c9c4c4;
     height: 150px;
 }
 .content{
-    background-color: #d6d0d0;
+    background-color: #c9c4c4;
     height: 600px;
    
 }
 .footer{
-    background-color: #e9e1e1;
+    background-color: #c9c4c4;
     height: 100px;
 }
 .logo img {
