@@ -136,8 +136,7 @@ tr:hover {background-color: #eaeaea;}
 }
 .content{
     background-color: #c9c4c4;
-    height: 600px;
-   
+    height: 800px;
 }
 .footer{
     background-color: #c9c4c4;
@@ -149,6 +148,7 @@ tr:hover {background-color: #eaeaea;}
 .logo img {
     width: 60px;
     height: 60px;
+    margin: 0 auto;
     margin-top: 50px;
     margin-left: 100px;
     outline: 5px solid #eaeaea;
@@ -159,4 +159,13 @@ tr:hover {background-color: #eaeaea;}
     border-radius: 5px;
     width: 990px;
 }
-
+.content img:hover{
+    outline:none;
+}
+.content img {
+    width: 270px; 
+    height: 200px;
+    outline: 3px solid #eaeaea;
+    float: right;
+    margin-right: 12px;
+}
