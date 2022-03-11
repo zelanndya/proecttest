@@ -45,9 +45,11 @@ body{
 }
 h1,h3 {
     color:black;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400;
     background-color:#eaeaea;
+    padding-left: 20px;
+    
 }
 .des {
     color: #707070;
@@ -139,7 +141,10 @@ tr:hover {background-color: #eaeaea;}
 }
 .footer{
     background-color: #c9c4c4;
-    height: 100px;
+    height: 80px;
+    text-align: center;
+    padding-top: 50px;
+
 }
 .logo img {
     width: 60px;
@@ -154,3 +159,4 @@ tr:hover {background-color: #eaeaea;}
     border-radius: 5px;
     width: 990px;
 }
+
