@@ -147,6 +147,15 @@ tr:hover {background-color: #eaeaea;}
     margin: 0 auto;
 
 }
+.footer1{
+    background-color: #c9c4c4;
+    height: 80px;
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 20px;
+    margin: 0 auto;
+
+}
 .logo img {
     width: 60px;
     height: 60px;
@@ -175,4 +184,10 @@ tr:hover {background-color: #eaeaea;}
 .table{
     width: 990px;
     margin-left: 5px;
+}
+.scrut img{
+    float: left;
+    padding-right: 3px;
+    margin-left: 6px
+    
 }
