@@ -125,12 +125,12 @@ tr:hover {background-color: #eaeaea;}
     height: 100px;
 }
 .container{
-    width: 800px;
+    width: 1000px;
     margin:0 auto;
 }
 .header{
     background-color: #2118FF;
-    height: 180px;
+    height: 150px;
 }
 .content{
     background-color: #d6d0d0;
@@ -149,4 +149,8 @@ tr:hover {background-color: #eaeaea;}
     outline: 5px solid #eaeaea;
     
 }
-
+.hh{
+    border: 2px dotted #eaeaea;
+    border-radius: 5px;
+    width: 990px;
+}
